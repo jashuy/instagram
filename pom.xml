@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.112.212.172:8081/jaswanth/repository/insta-realeases/</url>
+	      <name>instagram Releases Nexus Repository</name>
+	      <url>http://18.182.55.75:8081/repository/insta_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.112.212.172:8081/jaswanth/repository/insata-snapshots/</url>
+	      <name>intagram  Snapshot Nexus Repository </name>
+	      <url>http://18.182.55.75:8081/repository/insta_snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
