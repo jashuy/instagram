@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://43.207.217.117:9000/</sonar.host.url>
+		<sonar.host.url>http://43.207.104.78:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Jashu@174</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>instagram Releases Nexus Repository</name>
-	      <url>http://18.182.55.75:8081/repository/insta_release/</url>
+	      <url>http://18.179.5.12:8081/repository/fb_relese/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>intagram  Snapshot Nexus Repository </name>
-	      <url>http://18.182.55.75:8081/repository/insta_snap/</url>
+	      <url>http://18.179.5.12:8081/repository/fb_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
